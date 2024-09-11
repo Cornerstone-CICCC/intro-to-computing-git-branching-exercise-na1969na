@@ -1,0 +1,5 @@
+My project
+
+Frontend: Next.js
+Backend: Node.js
+DB: PostgresSQL
